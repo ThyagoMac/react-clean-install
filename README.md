@@ -1,3 +1,9 @@
+# CLEAN REACT PROJECT WITH:
+
+.editorconfig;
+.prettierrc.js; $npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+.eslintrc.js; $npm run lint
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
